@@ -1,11 +1,17 @@
 {
-  "lessonId": "clover.lesson9",
+  "schemaVersion": 1,
+  "id": "clover.lesson9",
   "title": "Clover Lesson 9",
-  "lesson": "LESSON 9",
+  "series": "Clover",
+  "lesson": "9",
+  "grade": 3,
+  "subject": "English",
+  "engine": "v1",
   "status": "ready",
-  "version": "2026-09-02",
-  "itemCount": 40,
-  "engine": "english-classroom-engine-v1",
+  "questionCount": 40,
+  "formats": ["blank", "choice", "order", "translate", "write"],
+  "teacherMode": true,
+  "studentExport": true,
   "goldStandard": "Clover Lesson 8",
   "authoritative": [
     "Clover本冊 L09_本文",
@@ -14,5 +20,18 @@
   "supplementary": [
     "高校英文法 Visual Grammar",
     "一億人の英文法"
-  ]
+  ],
+  "features": [
+    "concept-map",
+    "question-diagrams",
+    "small-step-hints",
+    "completed-sentence-after-check",
+    "backup-technique",
+    "final-check",
+    "shared-engine-v1"
+  ],
+  "release": {
+    "studentProduction": false,
+    "requiresTeacherApproval": true
+  }
 }
