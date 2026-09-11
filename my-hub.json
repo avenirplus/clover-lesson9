@@ -12,12 +12,14 @@
   "engine": "v1",
   "teacher": true,
   "studentExport": true,
-  "repository": "branzfamily01/clover-lesson9",
+  "repository": "avenirplus/clover-lesson9",
   "sourcePath": ".",
   "targetPath": "materials/clover/lesson9/",
-  "plannedSchoolBaseUrl": "https://english-classroom.meguro-shs-5541.workers.dev/",
-  "plannedAccessUrl": "https://english-classroom.meguro-shs-5541.workers.dev/materials/clover/lesson9/",
-  "reviewUrl": "https://branzfamily01.github.io/clover-lesson9/",
+  "plannedNeutralOwner": "avenirplus",
+  "plannedCloudflareSubdomain": "avenirplus",
+  "plannedBaseUrl": "https://english-classroom.avenirplus.workers.dev/",
+  "plannedAccessUrl": "https://english-classroom.avenirplus.workers.dev/materials/clover/lesson9/",
+  "reviewUrl": "https://avenirplus.github.io/clover-lesson9/",
   "updatedAt": "2026-09-11",
   "notes": "Teacher-approved Engine v1 lesson. Student production remains separately gated."
 }
